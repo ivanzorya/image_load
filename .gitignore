@@ -1,7 +1,6 @@
 .git/*
 env/
 venv/
-.venv/
 
 __pycache__/
 *.py[cod]
@@ -11,7 +10,11 @@ __pycache__/
 .AppleDouble
 .LSOverride
 .vscode
+.env
 
 *.sublime-project
 *.sublime-workspace
 
+media/
+
+db.sqlite3
